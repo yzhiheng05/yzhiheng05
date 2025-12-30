@@ -1,18 +1,37 @@
-# 👋 你好，我是杨志恒 (Zhiheng Yang)
+# 💫 你好, 我是杨志恒 (Zhiheng Yang) 
 
-**数据科学与大数据技术专业 | 大三在读** 专注 Python 后端开发与微服务架构，具备云端部署与数据处理实战经验。
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yzhiheng05&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="yzhiheng05" />
+</p>
+
+### 👨‍💻 关于我
+- 🎓 **数据科学与大数据技术**专业 | 大三在读
+- 🎯 专注 **Python 后端开发** 与 **微服务架构**
+- ☁️ 具备 **PythonAnywhere** 云端部署实战经验
 
 ---
 
 ### 🛠️ 技术栈
-* [cite_start]**语言**: Python (Flask), 基础 C/C++, Java [cite: 36]
-* [cite_start]**数据库**: MySQL, SQLAlchemy ORM (熟练 Merge 更新逻辑) [cite: 37]
-* [cite_start]**后端**: 微服务架构 (网关/逻辑/DB), RESTful API, 缓存策略 [cite: 38]
-* [cite_start]**工具**: Git, Linux, PythonAnywhere 云部署 [cite: 39]
-
-### 🚀 重点项目
-* [cite_start]**[Holiday-Service-API](https://github.com/yzhiheng05/Holiday-Service-API)**：微服务架构节假日查询系统，实现 1 小时级缓存失效机制 [cite: 18, 21]。
-* [cite_start]**[Planet-API-Service](https://github.com/yzhiheng05/Planet-API-Service)**：行星数据处理应用，获 **30/30 满分**评价，计算误差 < 0.5% [cite: 31, 34]。
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
-📫 联系方式: yzhiheng05@163.com
+
+### 🌟 核心项目实战
+| 项目名称 | 技术亮点 | 成果展示 |
+| :--- | :--- | :--- |
+| **[Holiday-Service-API](https://github.com/yzhiheng05/Holiday-Service-API)** | 微服务架构、SQLAlchemy、Time-based 缓存 | 查询效率提升 30%，优秀评价 |
+| **[Planet-API-Service](https://github.com/yzhiheng05/Planet-API-Service)** | RESTful API、高精度计算 (误差 < 0.5%) | **30/30 满分评价** |
+
+---
+
+### 📊 GitHub 统计
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yzhiheng05&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzhiheng05&layout=compact&theme=radical" />
+</p>
